@@ -1,0 +1,21 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "description": "An advanced sudoku solver",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon test.js",
+    "helpers:test": "nodemon helpers/test.js"
+  },
+  "keywords": ["sudoku", "solver"],
+  "author": "shouston3",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shouston3/sudoku.git"
+  },
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
+}
+

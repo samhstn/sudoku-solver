@@ -1,0 +1,14 @@
+genArr()
+Generates an array of arrays all containing 9 zeros
+
+placeNo(n, x, y)
+Places an number n in coordinates (x, y)
+
+box = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+placeBox(box, x, y)
+Places box from coordinates starting from the top left corner
+
+line = [1, 2, 3, 4]
+placeLn(line, x, y)
+Places line from coordinate (x, y)
+
